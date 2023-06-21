@@ -1,11 +1,11 @@
 # Assignment-3-Challenge
 Generate Password
 
-# Random Passowrd Generator
+# Random Password Generator
 
 ## Description
 
-This Random Passowrd Generator application was produced for the third challenge in the course for the eDx Full Stack Coding Bootcamp throught The Ohio University. 
+This Random Password Generator application was produced for the third challenge in the course for the eDx Full Stack Coding Bootcamp throught The Ohio University. 
 
 ## Installation
 
