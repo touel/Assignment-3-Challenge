@@ -22,3 +22,6 @@ The starter code was provided by the eDx Full Stack Coding course through The Oh
 ## License
 
 Please refer to the LICENSE in the repo which is the MIT license.
+
+## Photo
+<img width="1477" alt="Screen Shot 2023-06-21 at 5 31 18 PM" src="https://github.com/touel/Assignment-3-Challenge/assets/131465517/c082c9ab-a846-49ac-adcf-9a2f00c867bd">
